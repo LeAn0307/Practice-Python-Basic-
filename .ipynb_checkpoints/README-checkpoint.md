@@ -3,4 +3,4 @@
 Tool: Jupyter Notebook 
 Language: Python
 
-![Practice PDF](E:\4.Python\4.Github repo\Practice-Python-Basic-\Practice.pdf)
+![Practice PDF](https://github.com/LeAn0307/Practice-Python-Basic-/blob/main/Practice.pdf)
